@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "description": "xDai MainNet Api [http://api.srank.com/]",
+  "apidoc": {
+    "title": "xDai MainNet ApiDoc",
+    "url" : "http://srank.com/"
+  }
+}
